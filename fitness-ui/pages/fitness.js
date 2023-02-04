@@ -54,11 +54,11 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>OpenAI Fitness Adviser</title>
+        <title>OpenAI Fitness advisor</title>
       </Head>
 
       <main className={styles.main}>
-        <h3>Robo Fitness Adviser</h3>
+        <h3>Robo Fitness advisor</h3>
         {!isLoading && !result && (
           <form onSubmit={onSubmit}>
             <label>Age</label>

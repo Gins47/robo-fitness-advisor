@@ -22,7 +22,7 @@ export class FitnessService {
     const languageModelRequest: CreateCompletionRequest = {
       model: 'text-davinci-003',
       prompt: prompt,
-      max_tokens: 500,
+      max_tokens: 2500,
       temperature: 0.5,
     };
     return languageModelRequest;

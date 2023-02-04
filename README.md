@@ -1,6 +1,6 @@
-# Robo Fitness Adviser using OpenAI
+# Robo Fitness advisor using OpenAI
 
-In this sample project which uses ChatGPT from OpenAI to get the workout plan , Diet Plan and Food recipes for reducing or increasing body weight.
+This is a sample project which uses ChatGPT from OpenAI to get the workout plan , Diet Plan and Food recipes for reducing or increasing body weight.
 In this project the front-end is created using NextJS and backend using NestJS.
 
 ## ChatGPT
