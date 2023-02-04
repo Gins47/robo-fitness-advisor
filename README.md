@@ -11,13 +11,13 @@ ChatGPT is a powerful language model developed by OpenAI. It is based on the GPT
 
 1. Create an account on OpenAI using the following link `https://beta.openai.com/signup`
 
-1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
+2. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
 
-1. Setup OpenAI API key
+3. Setup OpenAI API key
 
 If you have not created an API key yet. Create an API Key from `https://platform.openai.com/docs/quickstart/add-your-api-key`
 
-3. Navigate into the project directory
+4. Navigate into the project directory
 
    ```bash
      cd fitness-backend/
@@ -25,25 +25,25 @@ If you have not created an API key yet. Create an API Key from `https://platform
 
    Add your API Key in `.env` file.
 
-4. Install the requirements
+5. Install the requirements
 
    ```bash
    yarn
    ```
 
-5. Run the backend app using the below command
+6. Run the backend app using the below command
 
    ```bash
    yarn start:dev
    ```
 
-6. Open a new terminal and navigate to the web app folder
+7. Open a new terminal and navigate to the web app folder
 
    ```bash
      cd fitness-ui/
    ```
 
-7. Run the web app using below command
+8. Run the web app using below command
 
    ```bash
       npm run dev
